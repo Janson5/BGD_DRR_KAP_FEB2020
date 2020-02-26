@@ -65,7 +65,7 @@ sum_hc_supp_to_do_three_flg_without_dont_knw <- data %>% select(contains("X_41a_
 sum_ref_supp_to_do_three_flg_without_dont_knw_and_go_to_cyln <- data %>% select(contains("X_41a_What_are_you_supposed_to.")) %>% 
   select(-c("X_41a_What_are_you_supposed_to.don_t_know","X_41a_What_are_you_supposed_to.go_to_a_cyclone_shelter")) %>% colnames() %>% dput
 
-
+dbasdms,\ndxz c,zfdsfz dma\ sxnkz\
 
 # Recoding ----------------------------------------------------------------
 
